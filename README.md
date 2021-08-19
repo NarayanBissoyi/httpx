@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a><img  src=""https://upload.wikimedia.org/wikipedia/commons/6/66/Google_Docs_2020_Logo.svg"></a>
+  <a><img  src="https://raw.githubusercontent.com/NarayanBissoyi/pramila/5434b5c66f229620156f1f59d835dab647395249/brighteness_onmouseover.svg"></a>
   <br>
 </h1>
 
